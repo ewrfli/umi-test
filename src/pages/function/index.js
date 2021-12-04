@@ -15,7 +15,11 @@ export default function(props){
           <List.Item>
             <Link to='/function/hook'>hook</Link>
           </List.Item>
-          <WhiteSpace></WhiteSpace>
+          <WhiteSpace />
+          <List.Item>
+            <Link to='/function/context'>context</Link>
+          </List.Item>
+          <WhiteSpace />
         </List>
       </WingBlank>
     </div>
