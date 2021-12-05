@@ -20,6 +20,10 @@ export default function(props){
             <Link to='/function/context'>context</Link>
           </List.Item>
           <WhiteSpace />
+          <List.Item>
+            <Link to='/function/customize'>customize</Link>
+          </List.Item>
+          <WhiteSpace />
         </List>
       </WingBlank>
     </div>
